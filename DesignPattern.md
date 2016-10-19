@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 book refers to - “Design Patterns: Elements of Reusable object-Oriented Software”
 
 1. Factory Method: 
@@ -13,3 +14,9 @@ book refers to - “Design Patterns: Elements of Reusable object-Oriented Softwa
 
 	# My explanation of implementation
 	Create abstract class for a type of class, eg. a pizza store class. This serves as the factory methods’ base. Other subclasses would implement and “new” corresponding objects, e.g. cheese pizza store class would use a method to generate a “CheesePizza” class.
+=======
+# Design Patterns
+
+Book reference: 
+	Design Patterns: Elements of Reusable object-Oriented Software
+>>>>>>> 2586abaec2d2ad2582aa4237c6efb61f9884d9d2
